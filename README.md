@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**adgjmptw2/adgjmptw2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 안녕하세요 👋
 
-Here are some ideas to get you started:
+꾸준히 프로젝트를 만들며 성장 중인 개발자입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adgjmptw2&show_icons=true&theme=tokyonight&locale=kr)
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adgjmptw2&layout=compact&theme=tokyonight&locale=kr)
+
+</div>
