@@ -12,8 +12,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adgjmptw2&show_icons=true&theme=tokyonight&locale=kr&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=adgjmptw2&show_icons=true&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adgjmptw2&layout=compact&theme=tokyonight&locale=kr&hide_border=true)
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adgjmptw2&layout=compact&theme=tokyonight" />
 
 </div>
