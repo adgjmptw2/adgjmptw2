@@ -12,10 +12,10 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-mine-9289.vercel.app/api?username=adgjmptw2&show_icons=true&theme=github_dark&hide_border=true&v=100" />
+<img src="https://github-readme-stats-mine-9289.vercel.app/api?username=adgjmptw2&show_icons=true&theme=github_dark&hide_border=true&v=101" />
 
 <br/>
 
-<img src="https://github-readme-stats-mine-9289.vercel.app/api/top-langs?username=adgjmptw2&layout=compact&theme=github_dark&hide_border=true&v=100" />
+<img src="https://github-readme-stats-mine-9289.vercel.app/api/top-langs?username=adgjmptw2&layout=compact&theme=github_dark&hide_border=true&v=101" />
 
 </div>
