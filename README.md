@@ -11,6 +11,7 @@
 |---|---|
 | [ERCraft](https://ercraft.net) | 이터널 리턴 전적·분석 사이트. 최근 7일 활성 사용자 약 7,600명(2026.10.20–26). 운영 코드는 비공개이고, 초기 버전은 [ERCraft-main](https://github.com/adgjmptw2/ERCraft-main)에 있습니다. |
 | [ERCraft-Replay](https://github.com/adgjmptw2/ERCraft-Replay) | 이터널 리턴 리플레이 파일을 해석해 이동, 전투, 스킬 사용을 분석하는 도구 |
+| [eternal-return-api](https://github.com/adgjmptw2/eternal-return-api) | ERCraft 연동 코드를 떼어 [npm](https://www.npmjs.com/package/eternal-return-api)에 공개한 이터널 리턴 Open API TypeScript 라이브러리 |
 | [kakao-ai-agent](https://github.com/adgjmptw2/kakao-ai-agent) | 카톡 '나와의 채팅'으로 집 PC의 Claude Code, Codex, Gemini에 일을 시키는 원격 비서 |
 | [sanboid-auto-story](https://github.com/adgjmptw2/sanboid-auto-story) | 좀보이드 서버 스토리를 자동으로 진행하는 애드온. Steam 창작마당 구독자 641명 |
 | [MINE-Discord-Bot](https://github.com/adgjmptw2/MINE-Discord-Bot) | 음악 재생과 서버 코인 기능이 있는 디스코드 봇 |
